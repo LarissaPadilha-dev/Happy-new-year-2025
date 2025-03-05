@@ -1,7 +1,7 @@
 import S from './style.module.scss'
 import Linkedin from '../assets/logoLinkedin.png'
 import Facebook from '../assets/logoFacebook.png'
-import Instagram from '../assets/logoInstagram.png'
+// import Instagram from '../assets/logoInstagram.png'
 
 export default function Footer() {
   return (
